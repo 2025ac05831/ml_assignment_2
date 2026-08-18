@@ -93,7 +93,7 @@ training script disagreeing.
 
 **Repository:** https://github.com/2025ac05831/ml_assignment_2
 
-**Live Streamlit App:** <FILL IN — https://your-app.streamlit.app>
+**Live Streamlit App:** https://mlassignment2-3vqzywrejjqutvpzv8ptll.streamlit.app/
 
 ```
 ml-assignment-2/
@@ -193,7 +193,7 @@ on a stack trace.
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/2025ac05831/ml_assignment_2
+git clone https://github.com/2025ac05831/ml_assignment_2.git
 cd ml_assignment_2
 pip install -r requirements.txt
 
