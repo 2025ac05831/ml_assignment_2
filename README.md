@@ -193,8 +193,8 @@ on a stack trace.
 ## How to Run Locally
 
 ```bash
-git clone <your-repo-url>
-cd 2025ac05831_ML_Assignment_2
+git clone https://github.com/2025ac05831/ml_assignment_2.git
+cd ml_assignment_2
 pip install -r requirements.txt
 
 python train.py        # regenerates model/ and test_data.csv
