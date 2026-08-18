@@ -91,7 +91,7 @@ training script disagreeing.
 
 ## c. GitHub Repository Link
 
-**Repository:** <FILL IN — https://github.com/your-username/ml-assignment-2>
+**Repository:** https://github.com/2025ac05831/ml_assignment_2
 
 **Live Streamlit App:** <FILL IN — https://your-app.streamlit.app>
 
@@ -193,7 +193,7 @@ on a stack trace.
 ## How to Run Locally
 
 ```bash
-git clone https://github.com/2025ac05831/ml_assignment_2.git
+git clone https://github.com/2025ac05831/ml_assignment_2
 cd ml_assignment_2
 pip install -r requirements.txt
 
